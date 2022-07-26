@@ -12,4 +12,4 @@ RUN jekyll build
 
 FROM nginx
 
-COPY --from=builder /project/_site/ /usr/share/nginx/html/iswc2020
+COPY --from=builder /project/_site/ /usr/share/nginx/html/iswc2022

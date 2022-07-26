@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
-title: "ISWC 2020 Paper: Tentris – A Tensor-Based Triple Store"
-logo: /assets/img/Tentris_logo.svg
+title: "ISWC 2022 Paper: Hashing the Hypertrie – Space- and Time-Efficient Indexing for SPARQL in Tensors"
+logo: /assets/img/Hashing_the_hypertrie_logo.svg
 description:
 show_downloads: false
-baseurl: /iswc2020
-repository: dice-group/iswc2020_tentris
+baseurl: /iswc2022
+repository: dice-group/iswc2022_tentris

@@ -1,1 +1,1 @@
-# 👉 https://tentris.dice-research.org/iswc2020/ 
+# 👉 https://tentris.dice-research.org/iswc2022/ 
